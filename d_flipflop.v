@@ -1,0 +1,18 @@
+module d_flipflop(
+    input D,
+    input Clk,
+    output reg Q,
+    output notQ
+);
+    
+    initial begin
+        Q <= 0;
+    end    
+    
+    always @(posedge Clk) begin
+        Q <= D;
+    end
+    
+    assign notQ = ~Q;
+    
+endmodule
