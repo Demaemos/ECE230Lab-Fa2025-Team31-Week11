@@ -1,6 +1,6 @@
 # Sequential Circuits: Latches
 
-In this lab, you’ve learned about edge sensitive circuits and explored some of the power therein.
+In this lab, you’ve learned about edge-sensitive circuits and explored some of the power therein.
 
 ## Rubric
 
@@ -11,11 +11,13 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 | Question 2 | Your answers to the question | 25% |
 | Question 3 | Your answers to the question | 25% |
 
+## Summary
+
 ## Lab Questions
 
 ### What is different between edge and level sensitive circuits?
 
 ### Why is it important to declare initial state?
 
-### What do edge sensitive circuits let us build?
+### What do edge-sensitive circuits let us build?
 
